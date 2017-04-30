@@ -28,7 +28,7 @@ With this:
 int size = snprintf(path, PATH_MAX, "/sys/class/gpio/gpio%u/%s", pin, filename);
 ```
 
-(Thanks to [https://github.com/rexington](rexington) for this)
+(Thanks to (https://github.com/rexington)[rexington] for this)
 
 
 
