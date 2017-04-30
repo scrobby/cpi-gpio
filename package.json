@@ -1,0 +1,18 @@
+{
+  "name": "cpi-gpio",
+  "version": "0.1.0",
+  "description": "Uses the 'pi-gpio' node module, which appears to be currently the most functional of all of the Raspberry Pi GPIO modules for node.js, and extends it by allowing for async callbacks and events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "raspberry-pi",
+    "pi-gpio"
+  ],
+  "author": "Carl Goldsmith",
+  "license": "ISC",
+  "dependencies": {
+    "pi-gpio": "0.0.8"
+  }
+}
